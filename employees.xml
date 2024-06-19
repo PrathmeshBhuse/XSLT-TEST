@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+    <employee>
+        <name>John Doe</name>
+        <designation>Technical Writer</designation>
+        <dateOfJoining>2020-01-15</dateOfJoining>
+        <address>123 Main St</address>
+        <salary>600000</salary>
+    </employee>
+    <employee>
+        <name>Jane Smith</name>
+        <designation>Developer</designation>
+        <dateOfJoining>2019-03-22</dateOfJoining>
+        <address>456 Elm St</address>
+        <salary>700000</salary>
+    </employee>
+    <employee>
+        <name>Emily Johnson</name>
+        <designation>Technical Writer</designation>
+        <dateOfJoining>2018-07-11</dateOfJoining>
+        <address>789 Maple St</address>
+        <salary>550000</salary>
+    </employee>
+    <employee>
+        <name>Michael Brown</name>
+        <designation>Manager</designation>
+        <dateOfJoining>2017-11-01</dateOfJoining>
+        <address>321 Oak St</address>
+        <salary>800000</salary>
+    </employee>
+</employees>
